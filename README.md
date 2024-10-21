@@ -144,6 +144,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0875-longest-mountain-in-array](https://github.com/ayushalapuriya/DSA-Task-/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/ayushalapuriya/DSA-Task-/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1044-find-common-characters) |
+| [1813-maximum-erasure-value](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1813-maximum-erasure-value) |
 | [2634-minimum-common-value](https://github.com/ayushalapuriya/DSA-Task-/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/ayushalapuriya/DSA-Task-/tree/master/2756-buy-two-chocolates) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushalapuriya/DSA-Task-/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -172,6 +173,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1044-find-common-characters) |
+| [1813-maximum-erasure-value](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1813-maximum-erasure-value) |
 | [2634-minimum-common-value](https://github.com/ayushalapuriya/DSA-Task-/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushalapuriya/DSA-Task-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -194,4 +196,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ayushalapuriya/DSA-Task-/tree/master/0875-longest-mountain-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
