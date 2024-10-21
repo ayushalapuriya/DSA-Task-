@@ -139,6 +139,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayushalapuriya/DSA-Task-/tree/master/0455-assign-cookies) |
+| [1044-find-common-characters](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1044-find-common-characters) |
 | [2756-buy-two-chocolates](https://github.com/ayushalapuriya/DSA-Task-/tree/master/2756-buy-two-chocolates) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushalapuriya/DSA-Task-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -158,9 +159,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Hash Table
 |  |
 | ------- |
+| [1044-find-common-characters](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1044-find-common-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushalapuriya/DSA-Task-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushalapuriya/DSA-Task-/tree/master/3242-count-elements-with-maximum-frequency) |
+## String
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/ayushalapuriya/DSA-Task-/tree/master/1044-find-common-characters) |
 <!---LeetCode Topics End-->
